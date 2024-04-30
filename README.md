@@ -1,0 +1,2 @@
+Here lies my final project for Intermediate Programming! We learned Java in this class, so the entire project is written in Java. It relies heavily on Object-Oriented Programming to create a version of the board game Battleship. The game is played by the user in the console, and they play against the computer.
+The basic requirement for the project was that the computer makes random moves, but I took the option to implement more intelligence in the computer's moves, which can be found in the UserBoard class under the makeComputerMove method.
